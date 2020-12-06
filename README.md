@@ -33,6 +33,12 @@
 
 ## [Best Practices](https://phauer.com/2018/best-practices-unit-testing-kotlin/)
 ### TL;DR
+
+#### build.gradle.kts
+
+- 많은 내용이 `build.gradle.kts`에 포함되어 있습니다.
+- 주의 깊게 읽는 것이 좋습니다.
+
 #### Test Container 사용
 
 > 쓰는 게 문제가 아니라, 마이그레이션이 문제 될 수 있음.
